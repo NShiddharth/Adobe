@@ -62,3 +62,9 @@ docker build -t pdf-extractor .
     \\\`
 
 3.  Check the \output\ folder for your generated JSON files.
+4.  ## 📦 Required Files
+
+Due to GitHub file size limits, the following files must be downloaded separately:
+
+- [Download packages.zip](https://drive.google.com/file/d/13qM4-p0iKLEqyTa1O7UgS7YT10t5XJgY/view?usp=sharing)
+- [Download tessdata_fast.zip](https://drive.google.com/file/d/1r6-ZyHQ5kIKH5zWbOP7e7vlYmkqaLkMl/view?usp=sharing)
